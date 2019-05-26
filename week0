@@ -1,1 +1,62 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>My Bio</title>
+        <meta name="description" content="The Bio of Mine"/>
+        <link rel="stylesheet" href="styles.css"/>
+    </head>
 
+    <body>
+        <header>
+            <h1>Baslik</h1>
+            <h2>2nd Baslik</h2>
+            <p>Paragraph</p>
+            <nav>
+
+            </nav>
+            <div role="navigation">
+                <!--to explain what this div is for, we use role=""-->
+            </div>                 
+        </header>
+
+        <main>
+            <img src=".jpg" alt="my picture" width="100"/>
+            <section id="first-section">
+                <h2 class="first-subtitle">Subtitle 1</h2>
+                <h3 class="subtitle">Subtitle 1.2</h3>
+                <h6></h6>
+                <p></p>
+            </section>
+
+            <section>
+                <h2 id="second-subtitle">Subtitle 2</h2>
+            </section>
+            <div>
+                Speacially it doesn't have any meanings;
+                Use it as a last stop after looking every tags like 
+                section, p, h1 etc
+            </div>
+        </main>
+
+        <aside>
+            <span>somethings</span>
+            Logos and Advertisements
+        </aside>
+
+        <p>
+            <a href="https://hackyourfuture.be/">Hack Your Future</a>
+        </p>
+        <ul>
+            <li><strong>Buy</strong>thee</li>
+            <li>Coffee</li>
+        </ul>
+        <ol>
+            <li>Chocolate</li>
+            <li>Nuts</li>
+        </ol>
+
+        <footer>
+
+        </footer>
+    </body>
+</html>
