@@ -32,3 +32,10 @@ main {
     border: none;
     object-position: left;
 }
+
+
+#spanid {
+    border: aqua;
+    background-color: blueviolet;
+    font-size: inherit;
+}
