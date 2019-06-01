@@ -27,6 +27,11 @@ h1 {
     color: rgb(33, 201, 201);
 }
 
+#work {
+    color: rgb(255, 255, 255);
+    text-shadow: cornsilk;
+}
+
 h2 {
     color: aqua;
 }
