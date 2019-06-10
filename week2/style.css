@@ -358,7 +358,7 @@ img{
     }
 
     #grid-flex .grid-item {
-        flex-basis: 21%;
+        flex-basis: 20%;
         height: 400px;
         flex-direction: row;
         flex-flow: wrap;
@@ -382,14 +382,14 @@ img{
 
     #grid-flex > li:nth-child(2)
     {
-        flex-basis: 21%;
+        flex-basis: 20%;
         height: 400px;
         border: 1px solid coral;
     }
 
     #grid-flex > li:nth-child(3)
     {
-        flex-basis: 21%;
+        flex-basis: 20%;
         height: 400px;
         border: 1px solid coral;
     }
