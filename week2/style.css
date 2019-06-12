@@ -89,6 +89,10 @@ h2 {
     animation: mymove 9s infinite;    
 }
 
+img:hover {
+    transform: scale(2.5);
+}
+
 /* ..Styling Elements */
 
 ul {
